@@ -1,3 +1,3 @@
-#food
+food
 
-####[LINK](https://katerynakuzmina.github.io/food/)
+[LINK](https://katerynakuzmina.github.io/food/)
